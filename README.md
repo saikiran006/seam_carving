@@ -1,4 +1,4 @@
-# Implementation of Seam Carving from image resizing.
+# Implementation of Seam Carving for image resizing.
 
 ## Description
 - Seam Carving algorithm resizes an image by preserving the important contents in the original image. 
